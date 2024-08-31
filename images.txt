@@ -1,1 +1,1 @@
-sickcodes/docker-osx:ventura
+docker-osx:ventura
